@@ -1,0 +1,4 @@
+﻿  Helper.cpp
+C:\Users\anuwat\source\repos\ClickBotLearn\PatternScan\Helper.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anuwat\source\repos\ClickBotLearn\PatternScan\Helper.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+  PatternScan.vcxproj -> C:\Users\anuwat\source\repos\ClickBotLearn\Debug\PatternScan.exe
